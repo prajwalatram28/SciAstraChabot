@@ -1,0 +1,1 @@
+Objective: Develop an interactive chatbot for the SciAstra website's home page. Place the chatbot on the bottom right side of the page, and ensure it features a minimum of 10-15 questions related to SciAstra.
